@@ -1,4 +1,4 @@
-*Tabetai*
+*Game Tabetai*
 --
 ___
 Equipo:
