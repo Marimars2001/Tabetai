@@ -2,7 +2,7 @@
 --
 ___
 Equipo:
-- Mariana Chavira
-- Alberto Mendoza
-- Gabriel Samoano
-- Victoria Solano
+- Mariana Chavira Rodríguez
+- Alberto Mendoza Soto
+- Gabriel Samoano López
+- Victoria Espinosa Solano
